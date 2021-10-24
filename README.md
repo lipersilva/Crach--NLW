@@ -2,7 +2,7 @@
 Crachá virtual criado na trilha Origin na NLW-Heat da RocketSeat para o evento DoWhile21!
 
 
-![image](https://user-images.githubusercontent.com/32980177/138560784-3699b56d-9587-4541-8ee8-44e97389a653.png)
+![image]![image](https://user-images.githubusercontent.com/32980177/138580977-0e55f4b4-15c9-4331-814e-dd7ceec11428.png))
 
 Cracha exclusivo para uso na DoWhile 2021, criado na NLW Heat da RocketSeat. 
 O crachá contém informações sobre a pessoa na qual está utilizando.
